@@ -1,0 +1,10 @@
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.exe.config
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.exe
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.pdb
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csprojAssemblyReference.cache
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\_04_TriggerAssieme.Form1.resources
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\_04_TriggerAssieme.Properties.Resources.resources
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csproj.GenerateResource.cache
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csproj.CoreCompileInputs.cache
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.exe
+C:\Users\samuf\Desktop\info-playground-diegobelliardo-2020-5einf\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.pdb
